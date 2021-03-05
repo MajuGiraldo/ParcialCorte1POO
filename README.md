@@ -13,3 +13,8 @@ El encapsulamiento tiene bastantes ventajas, pero las principales son: mantenibi
 RTA/ La ocultación de la información, como su nombre lo indica, se encarga de esconder o hacer inaccesible datos o procesos a otras estructuras; pueden ser a otras clases, paquetes, etc. Esto con el objetivo de estas entidades comuniquen entre ellas solo la información importante o esencial. Es como si fueran entidades independientes que solo se transmiten entre sí la información que nosotros consideremos necesaria. Esta práctica se aplica principalmente para facilitar las pruebas, el manejo y las modificaciones que requiera el software. Se puede decir que la ocultación de información sirve como un criterio eficaz para dividir cualquier pieza del software en modulos de funcionalidad o interfaces, una independiente de la otra pero a la misma vez relacionadas. 
 
 La ocultación de información se implementa en Java mediante tres niveles de acceso, los cuales son: Público (Public); Todos pueden acceder a los datos o métodos de una clase que se definen con este nivel, este es el nivel más bajo, esto es lo que tu quieres que la parte externa vea. Protegido (Protected); Podemos decir que estás no son de acceso público, solamente son accesibles dentro de su clase y por subclases y Privado (Private); En este nivel se puede declarar miembros accesibles sólo para la propia clase. Por último se imlemnetan los métodos getters y setters mencionados anteriormente.
+
+
+# MAPA DE MEMORIA
+
+![IMG_2192](https://user-images.githubusercontent.com/78317998/110185377-2dd4d000-7de0-11eb-85dd-2ae5a3fef74f.jpg)
