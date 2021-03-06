@@ -18,3 +18,8 @@ La ocultación de información se implementa en Java mediante tres niveles de ac
 # MAPA DE MEMORIA
 
 ![IMG_2192](https://user-images.githubusercontent.com/78317998/110185377-2dd4d000-7de0-11eb-85dd-2ae5a3fef74f.jpg)
+
+
+# DIAGRAMA DE SECUENCIA (DISEÑO)
+
+![Diagrama de secuencia Parcial](https://user-images.githubusercontent.com/78317998/110187606-e69e0d80-7de6-11eb-93ed-27d5ea370926.PNG)
